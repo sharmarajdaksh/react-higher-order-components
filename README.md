@@ -1,3 +1,1 @@
-# Testing with React JS
-
-WIth Jest, Enzyme, and Moxios.
+# HOCs in React JS
